@@ -1,0 +1,23 @@
+Server:
+
+npm install express cors mysql2
+
+// database
+npm install sequelize sequelize-cli
+
+npm install cors
+npm install cors --save
+// put the password in hash algorisim
+ npm install bcrypt
+ npm install jsonwebtoken
+
+Client:
+
+npx create-react-app .
+npm install react-scripts@5.0.1
+npm install axios
+npm install react-router-dom
+npm install formik // form
+npm install yup // validate the form data
+npm install @material-ui/core
+npm install @material-ui/icons
